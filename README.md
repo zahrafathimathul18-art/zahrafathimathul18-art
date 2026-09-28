@@ -16,7 +16,6 @@ Hi, I’m Zahra 👋<br><br>🎓 BSc in Information Technology Undergraduate �
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=zahrafathimathul18-art&icon=9&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
