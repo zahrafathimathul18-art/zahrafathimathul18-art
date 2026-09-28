@@ -1,5 +1,41 @@
-# 💫 About Me:
-Hi, I’m Zahra 👋<br><br>🎓 BSc in Information Technology Undergraduate 💻 Aspiring Software Engineer<br><br>I’m currently building my skills in software development and exploring Java, web development, databases, and data structures.<br><br>🛠️ Skills & Technologies<br><br>Java<br>HTML<br>CSS<br>JavaScript<br>MySQL<br>Git & GitHub<br>📚 Currently Learning<br><br>Object-Oriented Programming<br>Data Structures & Algorithms<br>Database Development<br>Software Engineering<br><br>🚀 Projects I’m currently building projects to strengthen my programming and software development skills. More projects coming soon!<br><br>🎯 Career Goal<br>To grow as a Software Engineer by building practical projects and continuously improving my technical skills.
+# 👩🏻‍💻 Hi, I'm Zahra! ✨
+
+🎓 **BSc in Information Technology**
+
+💻 **Learning my way into Software Engineering**
+
+> 🌱 *Every expert was once a beginner.*
+
+I'm at the beginning of my journey in technology, learning how ideas become code and how code becomes something useful. I'm exploring different areas of IT, building small projects, making mistakes, solving problems, and growing a little with every step. 🚀
+
+### 📚 `CURRENTLY_LEARNING`
+
+🔹 Programming & Object-Oriented Programming
+
+🔹 Data Structures & Algorithms
+
+🔹 Databases
+
+🔹 Web Development
+
+🔹 Software Engineering
+
+### 🌱 `MY JOURNEY`
+
+I'm not here to show that I know everything, I'm here to learn.
+
+Every project is a chance to understand something new. Every bug is a problem to solve. Every mistake is part of becoming a better developer.
+
+```text
+> beginner_mode: ON 🌱
+> learning: ███████░░░
+> building: ██████░░░░
+> curiosity: ∞
+```
+
+🚀 **Learning today. Building tomorrow. Growing one line of code at a time.**
+
+
 
 
 ## 🌐 Socials:
