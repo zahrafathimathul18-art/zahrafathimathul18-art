@@ -48,7 +48,7 @@ Every project is a chance to understand something new. Every bug is a problem to
 ![](https://streak-stats.demolab.com/?user=zahrafathimathul18-art&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=zahrafathimathul18-art&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote!!!!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
