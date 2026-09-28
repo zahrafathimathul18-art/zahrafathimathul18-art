@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Hi, I'm Zahra! ✨
+# 👩🏻‍💻 Hi, I'm Zahra✨
 
 🎓 **BSc in Information Technology**
 
