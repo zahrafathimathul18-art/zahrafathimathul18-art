@@ -1,30 +1,20 @@
 # 👩🏻‍💻 Hi, I'm Zahra✨
 
-🎓 **BSc in Information Technology**
+**Welcome to my little corner of GitHub! 💻✨**
 
-💻 **Learning my way into Software Engineering**
+I believe technology is not just about writing code, it’s about **turning ideas into possibilities, solving problems, and creating something that can make a difference.**
 
-> 🌱 *Every expert was once a beginner.*
+I’m curious by nature and enjoy discovering how things work, experimenting with new ideas, and challenging myself to build something from scratch. Not everything I create will be perfect, and that’s okay. Every error, every failed attempt, and every small improvement is part of the process.
 
-I'm at the beginning of my journey in technology, learning how ideas become code and how code becomes something useful. I'm exploring different areas of IT, building small projects, making mistakes, solving problems, and growing a little with every step. 🚀
+This GitHub is a reflection of that journey, a place where ideas become projects, projects become experience, and experience becomes growth🚀
 
-### 📚 `CURRENTLY_LEARNING`
+You’ll find the things I build, experiment with, and improve along the way. Some may start small, but every project represents **a step forward.**
 
-🔹 Programming & Object-Oriented Programming
-
-🔹 Data Structures & Algorithms
-
-🔹 Databases
-
-🔹 Web Development
-
-🔹 Software Engineering
-
-### 🌱 `MY JOURNEY`
-
-I'm not here to show that I know everything, I'm here to learn.
+I’m here to keep learning, keep creating, and see where this journey takes me.
 
 Every project is a chance to understand something new. Every bug is a problem to solve. Every mistake is part of becoming a better developer.
+
+**Think. Build. Learn. Grow. Repeat. 🌱💻**
 
 ```text
 > beginner_mode: ON 🌱
@@ -33,7 +23,6 @@ Every project is a chance to understand something new. Every bug is a problem to
 > curiosity: ∞
 ```
 
-🚀 **Learning today. Building tomorrow. Growing one line of code at a time.**
 
 
 
